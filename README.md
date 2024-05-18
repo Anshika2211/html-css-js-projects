@@ -1,1 +1,0 @@
-This file contains a game which is made using html, css and javascript.
